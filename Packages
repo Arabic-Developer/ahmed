@@ -4,10 +4,10 @@ Section: Tweak
 Maintain: Arabic-developer
 Depends: mobilesubstrate, preferenceloader, applist
 Architecture: iphoneos-arm
-Filename: ./debs/arabic-developer.hack.deb
+Filename: ./debs/Slide.Hack.deb
 Size: 46676
-Description: هكر ببجي  النسخة العالمية يتوفر به العديد من المميزات
-Name: Hack Pubg AR
+Description: هكر ببجي سلايدر النسخة العالمية  غير امن
+Name: Hack Pubg Slider
 Author: Ahmed
 Sponsor: Arabic-developer
 Homepage: t.me/ah78gh
@@ -16,8 +16,8 @@ Depiction: https://arabic-developer.github.io/ahmed/
 SileoDepiction: https://arabic-developer.github.io/ahmed/sileoview/2949
 Icon: NonIcon
 Type: Regular
-Siza: 250088 Bytes
+Siza: 19332 Bytes
 MIME: application/octet-stream
-MD5: 5453b9297c23327f195192a4712bc316
-SHA1: f99b06902620e52561758e742219c2d7b357b3f3
-SHA256: f24f06ef9e76dc734ea0e874e2fbda5cb2a49ccbe6fa449966930f5c4bb808a1
+MD5: bbb7465dda961ed36a8c801316047619
+SHA1: 210ed534723088cb498d443cc0cb15b9e5246863
+SHA256: 4997651cca03b7ee0e607954ccb0c47210a1ada1de56fccdcf6a4c9ee3fe8cb9
