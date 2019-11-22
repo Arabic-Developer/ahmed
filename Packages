@@ -1,23 +1,18 @@
-Package: com.AnTYBAN.FREE
-Version: 0.15.5
-Section: Tweak
-Maintain: Arabic-developer
-Depends: mobilesubstrate, preferenceloader, applist
-Architecture: iphoneos-arm
-Filename: ./debs/Slide.Hack.deb
-Size: 46676
-Description: هكر ببجي سلايدر النسخة العالمية  غير امن
 Name: Hack Pubg Slider
-Author: Ahmed
-Sponsor: Arabic-developer
-Homepage: t.me/ah78gh
-Website: https://arabic-developer.github.io/ahmed/
-Depiction: https://arabic-developer.github.io/ahmed/
-SileoDepiction: https://arabic-developer.github.io/ahmed/sileoview/2949
-Icon: NonIcon
-Type: Regular
-Siza: 19332 Bytes
-MIME: application/octet-stream
-MD5: bbb7465dda961ed36a8c801316047619
-SHA1: 210ed534723088cb498d443cc0cb15b9e5246863
+Package: com.ahmed.com
+Version: 0.1
+Section: Tweaks
+Depends: firmware (>= 11.0), com.imkpatil.floatingdock
+dev: Ahmed
+Author: Ahmed <ahmed2112469@yahoo.com>
+Maintainer: Ahmed <ahmed2112469@yahoo.com>
+Architecture: iphoneos-arm
+Description: هكر ببجي سلايدر النسخة العالمية والكورية
+Installed-Size: 2
+Size: 19332
+MD5sum: bbb7465dda961ed36a8c801316047619
 SHA256: 4997651cca03b7ee0e607954ccb0c47210a1ada1de56fccdcf6a4c9ee3fe8cb9
+Filename: ./debs/Slider.Arabic.developer.1-1.iphoneos-arm.deb
+Icon: https://jailbre3k.github.io/ahmed/descriptions/ar.png
+Depiction: https://arabic-developer.github.io/ahmed/descriptions/hackpubgslider/index.html
+SileoDepiction: https://arabic-developergithub.io/ahmed/descriptions/pubghackslider/Sileo.json
