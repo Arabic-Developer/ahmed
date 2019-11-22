@@ -4,7 +4,7 @@ Section: Tweak
 Maintain: Arabic-developer
 Depends: mobilesubstrate, preferenceloader, applist
 Architecture: iphoneos-arm
-Filename: ./debs/arabic-developer.hack.deb
+Filename: ./debs/https://github.com/Arabic-Developer/ahmed/blob/master/debs/arabic-developer.hack.deb
 Size: 46676
 Description: هكر ببجي  النسخة العالمية يتوفر به العديد من المميزات
 Name: Hack Pubg KR
