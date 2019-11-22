@@ -15,5 +15,5 @@ SHA1: 210ed534723088cb498d443cc0cb15b9e5246863
 SHA256: 4997651cca03b7ee0e607954ccb0c47210a1ada1de56fccdcf6a4c9ee3fe8cb9
 Filename: ./debs/Slider.Arabic.developer.1-1.iphoneos-arm.deb
 Icon: https://jailbre3k.github.io/ahmed/descriptions/ar.png
-Depiction: https://arabic-developer.github.io/ahmed/descriptions/hackpubgslider/index.html
-SileoDepiction: https://arabic-developergithub.io/ahmed/descriptions/pubghackslider/Sileo.json
+Depiction: https://arabic-developer.github.io/ahmed/
+SileoDepiction: https://arabic-developer.github.io/ahmed/descriptions/pubghackslider/Sileo.json
