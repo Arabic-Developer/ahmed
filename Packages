@@ -1,19 +1,18 @@
-Name: Hack Pubg Slider
-Package: com.ahmed.com
-Version: 0.1
-Section: Tweaks
-Depends: 
-dev: Ahmed
-Author: Ahmed <ahmed2112469@yahoo.com>
-Maintainer: Ahmed <ahmed2112469@yahoo.com>
+Package: com.Arabic-developer.com
+Name: Pubg Hack v0.15.5 English
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: هكر ببجي سلايدر النسخة العالمية والكورية
-Installed-Size: 2
-Size: 19332
-MD5sum: bbb7465dda961ed36a8c801316047619
-SHA1: 210ed534723088cb498d443cc0cb15b9e5246863
-SHA256: 4997651cca03b7ee0e607954ccb0c47210a1ada1de56fccdcf6a4c9ee3fe8cb9
-Filename: ./debs/Slider.Arabic.developer.1-1.iphoneos-arm.deb
+Description: Pubg Hack v0.15.5 Mod Menu by @AHMED and @Joker
+Maintainer: @Arabic-developer
+Author: @AHMED and @JOKER
+Section: Tweaks
+Version: 0.15.5.2-1+debug
+Installed-Size: 1160
+Size: 510418 Bytes
+MD5sum: 5f2c93bbdd59e7db97d6728f50c9ace5
+SHA1: aa95b78382845b82c568b77ff9a104d26efac5e0
+SHA256: 4c822bd41f6fedecdb4fa899c23c2236a514aefe83ad3dc13940afddfb16b625
+Filename: ./debs/هكر الجوكر المطور👨‍✈️🌻.deb
 Icon: https://jailbre3k.github.io/ahmed/descriptions/ar.png
 Depiction: https://arabic-developer.github.io/ahmed/
 SileoDepiction: https://arabic-developer.github.io/ahmed/descriptions/pubghackslider/Sileo.json
