@@ -1,18 +1,18 @@
 Package: com.Arabic-developer.com
-Name: Pubg Hack v0.14.0 English
+Name: Pubg Hack v0.15:5 English
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Pubg Hack v0.15.5 Mod Menu by @AHMED and @Joker
+Description: Pubg Hack v0.15.5 Mod Menu by @AHMED
 Maintainer: @Arabic-developer
-Author: @AHMED and @JOKER
+Author: @AHMED
 Section: Tweaks
 Version: 0.15.5.2-1+debug
-Installed-Size: 1160
-Size: 510418 Bytes
-MD5sum: 5f2c93bbdd59e7db97d6728f50c9ace5
-SHA1: aa95b78382845b82c568b77ff9a104d26efac5e0
-SHA256: 4c822bd41f6fedecdb4fa899c23c2236a514aefe83ad3dc13940afddfb16b625
-Filename: ./debs/هكر الجوكر المطور👨‍✈️🌻.deb
+Installed-Size: 
+Size: 
+MD5sum: 
+SHA1:
+SHA256:
+Filename: ./debs/
 Icon: https://jailbre3k.github.io/ahmed/descriptions/ar.png
 Depiction: https://arabic-developer.github.io/ahmed/
 SileoDepiction: https://arabic-developer.github.io/ahmed/descriptions/pubghackslider/Sileo.json
