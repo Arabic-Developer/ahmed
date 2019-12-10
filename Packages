@@ -3,14 +3,16 @@ Package: com.arabic-developer.com
 Version: 0.16.0
 Architecture: iphoneos-arm
 Maintainer: AHMED
-Depends:  firmware (>= 11.0), mobilesubstrate 
-Conflicts: com.unlimapps.uaupdatetools
+Depends: mobilesubstrate 
 Filename: debs/com.Free(HK)Anti🔨💸_iphoneos-arm.deb
 Size: 363778
 MD5sum: 930ebcee1ceef49f5482cf5edb4fa883
 SHA1: 0fa965af304b0b5c3ad16dd32b1661951c663c96
 SHA256: acf5cd23ed2fee2e214b643f6b0616cf4a34a14c84e9a3168a125c57e6aff17f
 Section: Tweaks
+Description: هاك ببجي موبيل اخر اصدار يتوفر فيه كل المميزات
+Auther: AHMED
+Icon: http://arabic-developer.github.io/ig/img/ahmed.png
 Depiction: https://arabic-developer.github.io/ahmed/
 SileoDepiction: https://arabic-developer.github.io/ahmed/
 Name: Hack Pubg Free💙🥶
