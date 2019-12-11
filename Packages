@@ -4,11 +4,11 @@ Version: 0.16.0
 Architecture: iphoneos-arm
 Maintainer: AHMED
 Depends: mobilesubstrate 
-Filename: ./debs/com.Free(HK)Anti🔨💸_iphoneos-arm.deb
-Size: 363778
-MD5sum: 930ebcee1ceef49f5482cf5edb4fa883
-SHA1: 0fa965af304b0b5c3ad16dd32b1661951c663c96
-SHA256: acf5cd23ed2fee2e214b643f6b0616cf4a34a14c84e9a3168a125c57e6aff17f
+Filename: ./debs/com.x204.jood_0.16.0_iphoneos-arm.deb
+Size: 340652
+MD5sum: 37c4370de26dfb6895ac1c463dc1759a
+SHA1: 33105065149f45f71673e609e46f41c08107186e
+SHA256: 2d1259a8d3b3a8ad95e581cc11765c187abf0cd920f926277e92e8b133e5b4a9
 Section: Tweaks
 Description: hack pubg kr
 Auther: AHMED
