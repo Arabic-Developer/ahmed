@@ -25,7 +25,7 @@
 
 <package>
     <id>com.arabic-developer.ahmed</id>
-    <name>Hack Pubg Slider</name>
+    <name>Hack Pubg Kr</name>
     <version>0.16.0</version>
     <compatibility>
         <firmware>
@@ -37,7 +37,7 @@
     <dependencies>
         <package>mobilesubstrate</package>
     </dependencies>
-    <shortDescription>hack pubg slider</shortDescription>
+    <shortDescription>hack pubg kr</shortDescription>
     <descriptionlist>
         <description></description>
         <description>Supports iOS 10.0 - 12.4</description>
