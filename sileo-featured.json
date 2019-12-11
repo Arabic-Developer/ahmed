@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{200, 150}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://arabic-developer.github.io/assets/Banners/Dangerous.png",
+        "title": "Ahmed",
+        "package": "com.arabic-developer.ahmed",
+        "hideShadow": false
+    }
+  ]
+}
