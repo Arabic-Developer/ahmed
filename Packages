@@ -25,7 +25,7 @@ Version: 0.16.0
 Architecture: iphoneos-arm
 Maintainer: AHMED
 Depends: mobilesubstrate 
-Filename: ./debs/
+Filename: ./debs/com.arabic-developer.ahmed_0.0.1-1+debug_iphoneos-arm.deb
 Size: 19260
 MD5sum: 47eb84bf3ce2276244339b0220fa2270
 SHA1: 716d667045e9bbd44172abfd2d498cacac9c61ee
