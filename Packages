@@ -17,3 +17,24 @@ SileoDepiction: https://arabic-developer.github.io/ahmed/
 Depiction: https://arabic-developer.github.io/ahmed/depictions/?p=test
 Installed-Size: 644
 Name: Hack Pubg Kr
+
+
+
+Package: com.arabic-developer.ahmed
+Version: 0.16.0
+Architecture: iphoneos-arm
+Maintainer: AHMED
+Depends: mobilesubstrate 
+Filename: ./debs/
+Size: 19260
+MD5sum: 47eb84bf3ce2276244339b0220fa2270
+SHA1: 716d667045e9bbd44172abfd2d498cacac9c61ee
+SHA256: 6de8100e6dd6eeed9034b3ed7a5fbddf4446bd9ab510585b16ea1b9fed467912
+Section: Tweaks
+Description: PUBG_SLIDER V16
+Auther: AHMED
+Icon: http://arabic-developer.github.io/ahmed/ig/img/ahmed.png
+SileoDepiction: https://arabic-developer.github.io/ahmed/
+Depiction: https://arabic-developer.github.io/ahmed/depictions/?p=test
+Installed-Size: 156
+Name: HACK SLIDER V16.0 
