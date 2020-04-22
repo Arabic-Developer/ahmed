@@ -1,0 +1,43 @@
+Package: com.angrybagga.jb
+
+Version: 2.0
+
+Architecture: iphoneos-arm
+
+Maintainer: AngryBagga
+
+Depends: mobilesubstrate 
+
+Filename: ./debs/AngryBaggAJB.deb
+Size: 3149424
+D5sum: 6ddf68f5862b3829c7a23fa677ae913a
+SHA1: 53c2284dfb7199f0a7b0e9b0f8a2ff842b6e1bf3
+SHA256: fac47c47eb1477db45cd377af352bcdc489a58892baa2a79765c6b56dd44c2ce
+Section: Tweaks
+Description: PUBG MOBILE 0.16.0 Mod Menu by AngryBaggA!
+Author: AngryBagga
+Icon: http://arabic-developer.github.io/ahmed/ig/img/ahmed.png
+SileoDepiction: https://iphone-tweaks.rf.gd/REPO/sileodepictions/depiction.json
+Depiction: https://iphone-tweaks.rf.gd/REPO/depictions/index.html
+Installed-Size: 380
+Name: Nightblood 0.16.0 Mod Menu
+
+
+Package: com.iosmods.anti
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: AHMED
+Depends: mobilesubstrate 
+Filename: ./debs/ANTIBAN ALL HACK 🖤☝️.deb
+Size: 16488
+MD5sum: 82bb41dcb8c9bd6f68b8b37769ae36cb
+SHA1: 5bfbdff991705d46d71c219948ecaebd291db653
+SHA256: 78b108cc54926ddef5427df06637d8021809611bef06a479dc70102b219df045
+Section: Tweaks
+Description: ANTIBAN MADE BY ARABIC DEVELOPER!!
+Author: AHMED
+Icon: http://arabic-developer.github.io/ahmed/ig/img/ahmed.png
+SileoDepiction: https://iphone-tweaks.rf.gd/REPO/sileodepictions/depiction.json
+Depiction: https://iphone-tweaks.rf.gd/REPO/depictions/index.html
+Installed-Size: 8266677
+Name: AntiBan Arabic Developer
